@@ -770,3 +770,9 @@ p.form-message.error {
         color: #f00; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.pdf-viewer{
+  height: 99.65vh;
+  width: 100%;
+}
